@@ -27,5 +27,10 @@ namespace Domain
         {
 
         }
+
+        public Event(long id, string Name)
+        {
+
+        }
     }
 }
